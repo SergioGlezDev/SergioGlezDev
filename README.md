@@ -18,6 +18,6 @@ I'm a web developer, although I tend to a more front-end profile, my goal is to 
 
 I look forward to hearing from you to talk and network. Thank you so much for making it this far!
 
-Best regards
- 🙋‍♂️ Sergio 
+Best regards.
+🙋‍♂️ Sergio 
 
