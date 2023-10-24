@@ -16,7 +16,9 @@ I'm a web developer, although I tend to a more front-end profile, my goal is to 
 ### Social network
 <a href="https://www.instagram.com/monsieur_sirgayos/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" height=20 width=20 /></a> <a href="https://twitter.com/SergioDev06"> <img src="https://graffica.ams3.digitaloceanspaces.com/2023/07/rQYXqS5v-F1ySdm9WYAIbjHo-1024x1024.jpeg" height=20 width=20 ></a> <a href="https://www.linkedin.com/in/sergioglezrguez/"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height=20 width=20 /> </a>
 
-I look forward to hearing from you to talk and network. Thank you so much for making it this far!
+Excited to hear from you, have a chat and connect!
+
+Thank you so much for making it this far!
 
 Best regards.
 
